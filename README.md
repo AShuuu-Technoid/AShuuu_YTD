@@ -1,4 +1,4 @@
-# AShuuu YTD Bot 😉
+# Telegram YTD Bot 😉
 ## Prerequisite
     ffmpeg
 
