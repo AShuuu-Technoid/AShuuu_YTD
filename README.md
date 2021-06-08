@@ -13,4 +13,4 @@
     - python3 -m bot
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darkshadee/AShuuu_YTD/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AShuuu-Technoid/AShuuu_YTD/main)
